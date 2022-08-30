@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Shnoorum and I'm the new bad boy in town. Forget what you know about coding cuz' me and my crew are here to show you how it's done. :sunglasses:
 <!--
 **Shnoorum/Shnoorum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
